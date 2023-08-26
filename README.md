@@ -2,11 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000080&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I+am+Reisoglu;I+am+a+Software+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reisoglusoftware&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=carolbarbosa101&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=carolbarbosa101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
