@@ -9,8 +9,8 @@
 
 
 <div align="center"> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=reisoglusoftware&show_icons=true&count_private=true&title_color=4682B4&icon_color=4682B4&text_color=4682B4&bg_color=0d1117" alt="Reisoglu's github stats" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reisoglusoftware&title_color=4682B4&text_color=4682B4&bg_color=0d1117" alt="reisoglusoftware" />  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=reisoglusoftware&show_icons=true&count_private=true&title_color=4682B4&icon_color=4682B4&text_color=4682B4&bg_color=0d1117;" alt="Reisoglu's github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=reisoglusoftware&" alt="reisoglusoftware" />  
 </div>
 
 
