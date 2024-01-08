@@ -51,7 +51,7 @@
 
 <div align="center">
     <br>
-        <h3 align="center">VISITIRS COUNT</h3>  
+        <h3 align="center">VISITORS COUNT</h3>  
         <p align="center"><img align="center" src="https://profile-counter.glitch.me/{reisoglusoftware}/count.svg" /></p> 
     <br>
 </div>
