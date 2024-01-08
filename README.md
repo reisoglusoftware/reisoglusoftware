@@ -75,13 +75,13 @@
 <p><a href="https://www.buymeacoffee.com/zzzz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zzzz" /></a><a href="https://ko-fi.com/zzzz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zzzz" /></a></p><br><br>
 
 
-![GitHub metrics](https://metrics.lecoq.io/reisoglusoftware)  
-
-
-
-
-
-
+<div align="center">
+    <br>
+        <h3 align="left">Support:</h3>
+        <p><a href="https://www.buymeacoffee.com/zzzz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zzzz" /></a>
+            <a href="https://ko-fi.com/zzzz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zzzz" />
+    <br>
+</div>
 
 
 
