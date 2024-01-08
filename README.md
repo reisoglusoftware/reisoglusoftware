@@ -9,8 +9,8 @@
 
 
 <div align="center"> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=reisoglusoftware&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=4682B4&bg_color=0d1117" alt="Reisoglu's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisoglusoftware&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=reisoglusoftware&show_icons=true&count_private=true&title_color=4682B4&icon_color=4682B4&text_color=4682B4&bg_color=0d1117" alt="Reisoglu's github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisoglusoftware&layout=compact&title_color=4682B4&text_color=4682B4&bg_color=0d1117" />
 </div>
 
 
@@ -22,7 +22,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=reisoglusoftware&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </div>
-
 
 
 
