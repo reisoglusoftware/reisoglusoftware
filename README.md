@@ -8,16 +8,19 @@
 [![Reisoglu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reisoglusoftware&bg_color=0d1117&color=4682B4&line=4682B4&point=4682B4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<div align="center"> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=reisoglusoftware&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=4682B4&bg_color=0d1117" alt="Reisoglu's github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisoglusoftware&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=0d1117" />
+</div>
+
+
+<div align="center">
   <img align="center" width="41%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=reisoglusoftware&title_color=4682B4&text_color=4682B4&bg_color=0d1117" alt="reisoglusoftware" />  
+</div>
 
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=reisoglusoftware&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</div>
-
-<div align="center"> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=reisoglusoftware&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=4682B4&bg_color=0d1117" alt="Reisoglu's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisoglusoftware&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=0d1117" />
 </div>
 
 
