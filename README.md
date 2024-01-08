@@ -10,7 +10,7 @@
 
 <div align="center"> 
   <img width="45%" height="195px" background-color: lightblue src="https://github-readme-stats.vercel.app/api?username=reisoglusoftware&show_icons=true&count_private=true&title_color=4682B4&icon_color=4682B4&text_color=4682B4&bg_color=0d1117" alt="Reisoglu's github stats" /> 
-  <img width="45%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=reisoglusoftware&background-color=0d1117" alt="reisoglusoftware" />  
+  <img width="45%" height="210px" src="https://github-readme-streak-stats.herokuapp.com/?user=reisoglusoftware&background-color=0d1117" alt="reisoglusoftware" />  
 </div>
 
 
