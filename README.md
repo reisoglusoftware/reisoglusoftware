@@ -61,12 +61,13 @@
 
 <div align="center">
     <br>
-        <h3 align="center">Support:</h3>
+        <h3 align="center">SUPPORT:</h3>
         <a href="https://www.buymeacoffee.com/qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" /></a>
         <a href="https://ko-fi.com/qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" />
     <br>
 </div>
 
+<br>
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/reisoglusoftware/contributions?format=svg&private=true)  
 
