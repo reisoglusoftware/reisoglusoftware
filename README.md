@@ -44,6 +44,4 @@
 
 <br>
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/reisoglusoftware/contributions?format=svg&private=true)  
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
