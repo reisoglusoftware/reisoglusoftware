@@ -13,8 +13,20 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=reisoglusoftware&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=4682B4&bg_color=0d1117" alt="Reisoglu's github stats" /> 
+    
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisoglusoftware&layout=compact&hide_border=true&title_color=4682B4&text_color=4682B4&bg_color=0d1117" />
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reisoglusoftware&" alt="reisoglusoftware" /></p>
 </div>
+
+
+
+
+
+
+
+
+
  
 <!--
 
@@ -32,20 +44,6 @@
 
 
 
-
- ### Main Languages-Frameworks-Tools:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
-![Virtual Box](https://img.shields.io/badge/-virtualbox-0D1117?style=for-the-badge&logo=virtualbox&labelColor=0D1117)&nbsp;
-![Kali Linux](https://img.shields.io/badge/-kalilinux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=red&labelColor=0D1117)&nbsp; 
-
-
-### Studying in this moment:
-![Java Script](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&logoColor=red&labelColor=0D1117)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=rust&logoColor=F94C10&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 
@@ -79,29 +77,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reisoglusoftware&show_icons=true&locale=en" alt="reisoglusoftware" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reisoglusoftware&" alt="reisoglusoftware" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
