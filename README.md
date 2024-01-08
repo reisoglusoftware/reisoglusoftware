@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-  <img height="195px" src="https://github-profile-trophy.vercel.app/?username=reisoglusoftware&theme=dracula&row=1&no-bg=true&column=8&margin-w=15&margin-h=15" />
+  <img height="100px" src="https://github-profile-trophy.vercel.app/?username=reisoglusoftware&theme=dracula&row=1&no-bg=true&column=8&margin-w=15&margin-h=15" />
 </div>
 
 
