@@ -75,27 +75,17 @@
 <p><a href="https://www.buymeacoffee.com/zzzz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zzzz" /></a><a href="https://ko-fi.com/zzzz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zzzz" /></a></p><br><br>
 
 
+![GitHub metrics](https://metrics.lecoq.io/reisoglusoftware)  
+
+
+
+
+
+
+
+
 
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/reisoglusoftware/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/reisoglusoftware)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=reisoglusoftware)  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
