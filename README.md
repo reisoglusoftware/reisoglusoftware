@@ -23,30 +23,6 @@
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisoglusoftware&layout=compact&margin-h=15&title_color=4682B4&text_color=4682B4&bg_color=0d1117" />
 </div>
 
-<br>
-
-
-
-
- 
-<!--
-
-<a href="https://instagram.com/xyz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-
-<a href="https://www.youtube.com/channel/xyz" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-
-<a href="https://www.linkedin.com/in/xyz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-
-<div align="center"> 
-  <a href = "mailto:reisoglusoftware@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"" target="_blank"></a>
-</div>
-
--->
-
-
-
-
-
 
 <div align="center">
     <br>
